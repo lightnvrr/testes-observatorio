@@ -2,9 +2,10 @@
 venv/
 env/
 
+
 # Ignorar as bases de dados (muito pesadas para o GitHub)
-data/raw/
-data/processed/
+#data/raw/
+#data/processed/
 
 # Ignorar arquivos temporários do Python e do Jupyter
 __pycache__/
