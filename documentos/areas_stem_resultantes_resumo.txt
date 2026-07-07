@@ -1,0 +1,76 @@
+=== ÁREAS (Formação) DENTRO DA MÁSCARA STEM (Grande Área) ===
+
+Grande Área: Ciências Exatas e da Terra — 29,817 registros
+  Ciência da Computação                          7,093
+  Química                                        7,065
+  Matemática                                     5,334
+  Física                                         4,954
+  Geociências                                    3,838
+  Oceanografia                                   641
+  Probabilidade e Estatística                    563
+  Astronomia                                     322
+  Não informado                                  6
+  Engenharia de Materiais e Metalúrgica          1
+
+Grande Área: Engenharias — 32,630 registros
+  Engenharia Elétrica                            6,166
+  Engenharia Civil                               5,741
+  Engenharia Mecânica                            4,337
+  Engenharia de Materiais e Metalúrgica          3,589
+  Engenharia Química                             3,204
+  Engenharia de Produção                         3,141
+  Engenharia Sanitária                           1,805
+  Não informado                                  1,119
+  Engenharia Biomédica                           922
+  Engenharia Nuclear                             693
+  Engenharia Aeroespacial                        549
+  Engenharia de Transportes                      465
+  Engenharia de Energia                          284
+  Engenharia Naval e Oceânica                    188
+  Engenharia de Minas                            153
+  Ciência da Computação                          59
+  Educação                                       29
+  Matemática                                     23
+  Física                                         20
+  Administração                                  17
+  Química                                        17
+  Probabilidade e Estatística                    12
+  Direito                                        11
+  Saúde Coletiva                                 8
+  Comunicação                                    7
+  Medicina                                       7
+  Biotecnologia                                  4
+  Ciência da Informação                          4
+  Agronomia                                      3
+  Arquitetura e Urbanismo                        3
+  Ciências Ambientais                            3
+  Ecologia                                       3
+  Enfermagem                                     3
+  Fisioterapia e Terapia Ocupacional             3
+  Geociências                                    3
+  Microeletrônica                                3
+  Multidisciplinar                               3
+  Recursos Florestais e Engenharia Florestal     3
+  Artes                                          2
+  Economia                                       2
+  Engenharia Agrícola                            2
+  Robótica, Mecatrônica e Automação              2
+  Astronomia                                     1
+  Biofísica                                      1
+  Biologia Geral                                 1
+  Bioquímica                                     1
+  Bioética                                       1
+  Botânica                                       1
+  Ciência Política                               1
+  Ciência e Tecnologia de Alimentos              1
+  Demografia                                     1
+  Desenho Industrial                             1
+  Geografia                                      1
+  Medicina Veterinária                           1
+  Microbiologia                                  1
+  Psicologia                                     1
+  Sociologia                                     1
+  Turismo                                        1
+  Zoologia                                       1
+  Zootecnia                                      1
+

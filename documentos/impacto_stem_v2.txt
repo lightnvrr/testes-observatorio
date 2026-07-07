@@ -1,0 +1,18 @@
+=== IMPACTO ANTES/DEPOIS — NOVA DEFINIÇÃO STEM (Grande Área) ===
+
+Definição ANTIGA: lista fixa de 8 Áreas (Área Formação/Atuação)
+Definição NOVA:   Grande Área in {Ciências Exatas e da Terra, Engenharias}
+
+--- Área (Formação) ---
+  Antes  : total=37,191  feminino=10,006  %fem=26.9%
+  Depois : total=61,843  feminino=21,465  %fem=34.7%
+  Ganho  : +24,652 total (+66.3%)  +11,459 feminino
+
+--- Grande Área (Atuação) ---
+  Antes  : total=40,692  feminino=11,344  %fem=27.9%
+  Depois : total=63,920  feminino=22,446  %fem=35.1%
+  Ganho  : +23,228 total (+57.1%)  +11,102 feminino
+
+Qualidade da coluna Grande Área:
+  Formação  - Não informado: 23,010 (5.6% do consolidado)
+  Atuação   - Não informado: 72,037 (17.4% do consolidado)

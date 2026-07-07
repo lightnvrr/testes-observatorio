@@ -1,0 +1,47 @@
+=== CASOS DE FRONTEIRA — Grande Área de Cada Área Específica ===
+
+Área: 'Engenharia Agrícola'
+  Formação (n=1,316):
+    Grande Área='Ciências Agrárias'  freq=1314
+    Grande Área='Engenharias'  freq=2
+  Atuação (n=769):
+    Grande Área='Ciências Agrárias'  freq=769
+
+Área: 'Recursos Florestais e Engenharia Florestal'
+  Formação (n=1,901):
+    Grande Área='Ciências Agrárias'  freq=1897
+    Grande Área='Engenharias'  freq=3
+    Grande Área='Ciências Sociais Aplicadas'  freq=1
+  Atuação (n=1,897):
+    Grande Área='Ciências Agrárias'  freq=1897
+
+Área: 'Recursos Pesqueiros e Engenharia de Pesca'
+  Formação (n=678):
+    Grande Área='Ciências Agrárias'  freq=678
+  Atuação (n=731):
+    Grande Área='Ciências Agrárias'  freq=731
+
+Área: 'Desenho Industrial'
+  Formação (n=1,279):
+    Grande Área='Ciências Sociais Aplicadas'  freq=1278
+    Grande Área='Engenharias'  freq=1
+  Atuação (n=1,071):
+    Grande Área='Ciências Sociais Aplicadas'  freq=1070
+    Grande Área='Lingüística, Letras e Artes'  freq=1
+
+Área: 'Robótica, Mecatrônica e Automação'
+  Formação (n=87):
+    Grande Área='Outra'  freq=83
+    Grande Área='Engenharias'  freq=2
+    Grande Área='Ciências Sociais Aplicadas'  freq=2
+  Atuação (n=660):
+    Grande Área='Outra'  freq=659
+    Grande Área='Engenharias'  freq=1
+
+Área: 'Microeletrônica'
+  Formação (n=19):
+    Grande Área='Outra'  freq=16
+    Grande Área='Engenharias'  freq=3
+  Atuação (n=113):
+    Grande Área='Outra'  freq=113
+

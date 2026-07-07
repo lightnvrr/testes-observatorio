@@ -1,0 +1,25 @@
+NAO EXISTE: 'Ciência de Dados'
+  candidato: 'Ciências Sociais' freq=137
+  candidato: 'Ciência Política' freq=4327
+  candidato: 'Ciências Ambientais' freq=4471
+  candidato: 'Ciência da Informação' freq=2383
+  candidato: 'Ciência da Computação' freq=7173
+
+NAO EXISTE: 'Sistemas de Informação'
+  candidato: 'Ciência da Informação' freq=2383
+  candidato: 'Tecnologia da Informação e Comunicação' freq=2
+
+NAO EXISTE: 'Engenharia de Software'
+  candidato: 'Engenharia de Produção' freq=3146
+  candidato: 'Engenharia Aeroespacial' freq=549
+  candidato: 'Engenharia de Energia' freq=285
+  candidato: 'Engenharia Sanitária' freq=1819
+  candidato: 'Engenharia Biomédica' freq=922
+
+NAO EXISTE: 'Inteligência Artificial'
+
+NAO EXISTE: 'Redes de Computadores'
+
+NAO EXISTE: 'Estatística'
+  candidato: 'Probabilidade e Estatística' freq=586
+

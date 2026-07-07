@@ -1,0 +1,17 @@
+=== IMPACTO ANTES/DEPOIS DA CORREÇÃO DA LISTA STEM ===
+
+-- Área (Formação) --
+  Antes  : total=36,619 feminino=9,800 (26.8%)
+  Depois : total=37,191 feminino=10,006 (26.9%)
+  Ganho  : +572 registros total, +206 feminino
+
+-- Área (Atuação) --
+  Antes  : total=39,696 feminino=10,996 (27.7%)
+  Depois : total=40,692 feminino=11,344 (27.9%)
+  Ganho  : +996 registros total, +348 feminino
+
+Nota: o ganho vem exclusivamente da inclusão de
+  Probabilidade e Estatística (substituindo a string inexistente Estatística).
+  As outras 5 áreas (Ciência de Dados, Sistemas de Informação,
+  Engenharia de Software, Inteligência Artificial, Redes de Computadores)
+  não existem nessa taxonomia e foram removidas sem perda de registros.

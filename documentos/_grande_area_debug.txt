@@ -1,0 +1,24 @@
+=== Grande Área (Formação) ===
+  'Ciências Humanas'                                  92,885
+  'Ciências Sociais Aplicadas'                        63,964
+  'Ciências da Saúde'                                 58,816
+  'Outra'                                             34,321
+  'Engenharias'                                       32,630
+  'Ciências Exatas e da Terra'                        29,817
+  'Ciências Agrárias'                                 28,237
+  'Ciências Biológicas'                               26,124
+  'Lingüística, Letras e Artes'                       25,728
+  'Não informado'                                     23,395
+  'Tecnologias'                                       3
+=== Grande Área (Atuação) ===
+  'Ciências Humanas'                                  73,935
+  'Não informado'                                     72,592
+  'Ciências Sociais Aplicadas'                        64,101
+  'Ciências da Saúde'                                 58,031
+  'Ciências Exatas e da Terra'                        37,744
+  'Ciências Biológicas'                               28,473
+  'Lingüística, Letras e Artes'                       28,381
+  'Engenharias'                                       26,793
+  'Ciências Agrárias'                                 20,969
+  'Outra'                                             4,862
+  'Tecnologias'                                       39

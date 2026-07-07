@@ -1,0 +1,14 @@
+area_stem,existe_formacao,freq_formacao,existe_atuacao,freq_atuacao
+Ciência da Computação,SIM,7173,SIM,8997
+Ciência de Dados,NAO,0,NAO,0
+Sistemas de Informação,NAO,0,NAO,0
+Engenharia de Software,NAO,0,NAO,0
+Inteligência Artificial,NAO,0,NAO,0
+Redes de Computadores,NAO,0,NAO,0
+Matemática,SIM,5386,SIM,7783
+Física,SIM,4979,SIM,5650
+Engenharia Elétrica,SIM,6168,SIM,5246
+Engenharia de Produção,SIM,3146,SIM,2631
+Engenharia Mecânica,SIM,4337,SIM,3630
+Engenharia Civil,SIM,5748,SIM,6075
+Estatística,NAO,0,NAO,0

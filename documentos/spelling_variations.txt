@@ -1,0 +1,17 @@
+=== VARIAÇÕES DE GRAFIA (Área Formação) ===
+
+=== BUSCA POR TERMOS SIMILARES ===
+
+Termo [computac] encontrado em:
+    'Ciência da Computação' freq=7173
+
+Termo [estatistic] encontrado em:
+    'Probabilidade e Estatística' freq=586
+
+=== BUSCA POR TERMOS SIMILARES (Área Atuação) ===
+
+Termo [computac] encontrado em:
+    'Ciência da Computação' freq=8997
+
+Termo [estatistic] encontrado em:
+    'Probabilidade e Estatística' freq=1014
